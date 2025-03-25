@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀 Here’s a quick overview of what I do:
 
 ### 🌍 Connect With Me  
  
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat)](https://www.facebook.com/share/1A3dpTWt2N/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1A3dpTWt2N/)
 
 
 <!--
