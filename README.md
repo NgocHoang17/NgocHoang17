@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Chu Ngoc Hoang
 
-Welcome to my GitHub profile! 🚀 Here’s a quick overview of what I do:
+Welcome to my GitHub profile!  Here’s a quick overview of what I do:
 <!--## 🔥 About Me
 - 🎨 UI/UX Designer & Front-end Developer  
 - 💻 Passionate about **design systems, web development, and animations**  
